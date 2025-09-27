@@ -2,7 +2,7 @@
   "name": "cv-project",
   "private": true,
   "scripts": {
-    "cv": "md-to-pdf cv.md --stylesheet styles.css --pdf-options '{ \"format\": \"A4\", \"printBackground\": true, \"margin\": \"0.5in\" }' && mv -f cv.pdf Kaan_Mert_Koc_CV.pdf && ocrmypdf --output-type pdfa --skip-text --title 'Kaan Mert Koc - CV' --author 'Kaan Mert Koc' Kaan_Mert_Koc_CV.pdf Kaan_Mert_Koc_CV_PDF-A.pdf"
+    "cv": "cp cv.md README.md && md-to-pdf cv.md --stylesheet styles.css --pdf-options '{ \"format\": \"A4\", \"printBackground\": true, \"margin\": \"0.5in\" }' && mv -f cv.pdf Kaan_Mert_Koc_CV.pdf && ocrmypdf --output-type pdfa --skip-text --title 'Kaan Mert Koc - CV' --author 'Kaan Mert Koc' Kaan_Mert_Koc_CV.pdf Kaan_Mert_Koc_CV_PDF-A.pdf"
   },
   "dependencies": {},
   "devDependencies": {
