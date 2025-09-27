@@ -40,7 +40,7 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
 
 ## Professional Experience
 
-### Cosmopolitan Turkey — CTO / Senior Full-Stack Engineer / DevOps | Aug 2024 – Present
+### Cosmopolitan Turkey — CTO (Hands-on Senior Full-Stack & DevOps) | Istanbul | Aug 2024 – Present
 
 - Growth on a new domain (100% organic): 1.4M visits and 3.0M pageviews in
   under 12 months; 2.14 views per visit; 67% bounce rate; 1m43s average
@@ -76,7 +76,7 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
 - CI/CD and quality: GitHub Actions pipelines; Playwright E2E on
   checkout/auth; logging and monitoring with Sentry, Bezsel, and Dozzle.
 
-### Aposto! — Mobile to Web to Full-Stack Engineer | Istanbul, New York | Sep 2021 – Apr 2025
+### Aposto! — Mobile to Web to Full-Stack Engineer | Istanbul | Sep 2021 – Apr 2025
 
 - Shipped Aposto! mobile app (50+ screens): offline podcast, read list,
   Turkish/English, dark/light modes; releases via TestFlight and Play Console.
@@ -99,7 +99,7 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
 - Impact: 100K+ monthly visitors, 1.5M+ total users, over 100K USD revenue;
   team ~10 across frontend, backend, DevOps, PM, and CTO.
 
-### Sober Digital — Lead Full-Stack Engineer | Mar 2024 – Feb 2025
+### Sober Digital — Lead Full-Stack Engineer | Istanbul | Mar 2024 – Feb 2025
 
 - Next.js 14 SSR e-commerce on Firebase Cloud Functions and Firestore (20+
   endpoints) with iyzico; custom admin for merch, categories, coupons with
@@ -177,6 +177,5 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
 
 - MEF University, Istanbul, Turkey — B.Sc. Computer Engineering, 2023.
   IAESTE member; finalist in inter-university algorithm competition in Turkey.
-- University for Information Science and Technology "St. Paul the Apostle" —
-  2021. Built iOS app “Code Tracker” with GitHub authentication; received
+- University for Information Science and Technology "St. Paul the Apostle" — 2021. Built iOS app “Code Tracker” with GitHub authentication; received
   full grade.
