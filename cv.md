@@ -1,7 +1,7 @@
 # KAAN MERT KOC
 
-Istanbul, Turkey | +90 531 712 3188 | kaanmertkocbus@gmail.com  
-LinkedIn: https://www.linkedin.com/in/kaan-mert-koc-2a57b5202/  
+Istanbul, Turkey | +90 531 712 3188 | kaanmertkocbus@gmail.com
+LinkedIn: https://www.linkedin.com/in/kaan-mert-koc-2a57b5202/
 GitHub: https://github.com/kaanmertkoc
 
 ## Summary
@@ -10,19 +10,19 @@ Senior full-stack engineer shipping SEO-first SSR (server-side rendering) web
 apps, high-traffic APIs, and mobile apps with TypeScript, Next.js, React
 Native/Expo, Strapi, Firebase, and Go. Delivered 1.4M+ visits, 3.0M pageviews,
 2.0M req/mo APIs (p95 96 ms), and 280K+ TRY GMV on lean, reliable infra; Core
-Web Vitals (CWV) green on core pages.
+Web Vitals (CWV) green on core pages. INP (Interaction to Next Paint) < 200 ms on key templates.
 
 ## Skills
 
-- Frontend: React, Next.js (App Router/SSR/ISR), TypeScript,
+- Frontend: React, Next.js/NextJS (App Router/SSR/ISR), TypeScript,
   React Query/TanStack, Redux/Zustand, CSS-in-JS, accessibility (a11y),
   Core Web Vitals
 - Mobile: React Native, Expo (EAS), In-App Purchases, deep links, push (FCM),
   TestFlight, Play Console
-- Backend: Node.js, Bun, Go (chi), REST APIs, Webhooks,
+- Backend: Node.js, Bun, Go (chi), REST/RESTful APIs, Webhooks,
   Firebase Cloud Functions, Firestore (NoSQL), PostgreSQL, SQLite, Drizzle ORM
 - Infra/DevOps: Docker, Docker Compose, Vercel, VPS, Nginx, Coolify,
-  GitHub Actions, CDN and caching (SSR/ISR/CDN), logging and monitoring
+  GitHub Actions, CI/CD, CDN and caching (SSR/ISR/CDN), logging and monitoring
 - CMS/Search: Strapi (self-hosted), Meilisearch
 - Auth/Security: NextAuth, OAuth 2.0, JWT, SSO, RBAC, rate limiting,
   feature flags
