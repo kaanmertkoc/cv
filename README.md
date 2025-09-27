@@ -1,5 +1,7 @@
 # KAAN MERT KOC
 
+Senior Full-Stack Engineer
+
 Istanbul, Turkey | +90 531 712 3188 | kaanmertkocbus@gmail.com
 LinkedIn: https://www.linkedin.com/in/kaan-mert-koc-2a57b5202/
 GitHub: https://github.com/kaanmertkoc
@@ -7,43 +9,41 @@ GitHub: https://github.com/kaanmertkoc
 ## Summary
 
 Senior full-stack engineer delivering SEO-first Server-Side Rendering (SSR)
-and Static Site Generation (SSG) web apps, high-traffic APIs, and mobile apps
-with TypeScript, Next.js, React Native and Expo (EAS), Strapi, Firebase, and
+and Static Site Generation (SSG) web apps, high-traffic RESTful APIs, and mobile apps
+with TypeScript, Next.js, React Native and Expo Application Services (EAS), Strapi, Firebase, and
 Go. Delivered 1.4M+ visits, 3.0M pageviews, 2.0M requests per month (95th
 percentile latency 96 ms), and 280K+ TRY GMV on lean, reliable infrastructure.
-Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
+Core Web Vitals (CWV) green on core pages; Interaction to Next Paint (INP) under 200 ms on key templates.
 
 ## Skills
 
-- Frontend: React, Next.js (App Router, SSR, SSG, ISR), TypeScript,
+- Frontend: React, Next.js (App Router, SSR, SSG, Incremental Static Regeneration (ISR)), TypeScript,
   TanStack Query (React Query), Redux, Zustand, CSS-in-JS,
   accessibility (a11y, axe), Core Web Vitals (CWV)
-- Mobile: React Native, Expo (EAS), in-app purchases, deep links, push
+- Mobile: React Native, Expo Application Services (EAS), in-app purchases, deep links, push
   notifications via Firebase Cloud Messaging (FCM), TestFlight, Play Console
-- Backend: Node.js, Bun, Go (chi), Hono, REST APIs, webhooks, Firebase Cloud
+- Backend: Node.js, Bun, Go (chi), Hono, RESTful APIs, microservices, webhooks, Firebase Cloud
   Functions, Firestore (NoSQL), PostgreSQL, SQLite, Drizzle ORM
-- Infrastructure and DevOps: Docker, Docker Compose, Vercel, VPS, Nginx,
+- Infrastructure and DevOps: Docker, Docker Compose, Vercel, Virtual Private Server (VPS), Nginx,
   Coolify, GitHub Actions, continuous integration and continuous delivery
-  (CI/CD), CDN and caching (SSR, SSG, ISR), logging and monitoring (Sentry,
-  Dozzle), Google Cloud Platform (GCP): Cloud Monitoring and Cloud Logging
-  (Logs Explorer) for Firestore and Cloud Functions
+  (CI/CD), CDN and caching (SSR, SSG, ISR), Google Cloud Platform (GCP)
 - CMS and Search: Strapi (self-hosted), Meilisearch
 - Auth and Security: NextAuth, OAuth 2.0, JWT (JSON Web Tokens),
-  SSO (single sign-on), RBAC (role-based access control), rate limiting,
+  Single Sign-On (SSO), Role-Based Access Control (RBAC), rate limiting,
   feature flags
 - Commerce/Payments: Shopify, Stripe, iyzico
 - Media, Storage, CDN: Bunny CDN, Cloudflare R2
 - Analytics and SEO: Google Analytics, Google Search Console, Plausible, JSON-LD,
   technical SEO
 - Observability and Testing: Sentry, Dozzle, Firebase Crashlytics,
-  Google Cloud Monitoring and Cloud Logging (Logs Explorer), Jest, Vitest,
-  Playwright, Detox, end-to-end (E2E) testing
+  Google Cloud Monitoring and Google Cloud Logging (Logs Explorer), Jest, Vitest,
+  Playwright, Detox, End-to-End (E2E) testing
 
 ## Professional Experience
 
 ### Cosmopolitan Turkey - Chief Technology Officer (Hands-on Senior Full-Stack & DevOps) | Aug 2024 - Present
 
-- As the sole engineer, architected and implemented and delivered the entire
+- As the sole engineer, architected, implemented, and delivered the entire
   digital platform, driving 100% organic growth to 1.4M visits and 
   3.0M pageviews in under 12 months with zero marketing budget.
 - SEO: JSON-LD sitewide and AI metadata (gpt-4o-mini via Strapi). Google
@@ -51,8 +51,8 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
 - Architecture: Next.js SSR on Vercel (production) and Coolify for preview;
   custom Strapi CMS; block-based page builder and per-page "Fancy Page"
   controls.
-- Performance and reliability: caching and on-change revalidation; SSR time to
-  first byte (TTFB) median 100 ms and 95th percentile 500 ms; zero downtime.
+- Performance and reliability: caching and on-change revalidation; SSR Time to
+  First Byte (TTFB) median 100 ms and 95th percentile 500 ms; zero downtime.
   Core Web Vitals: LCP (Largest Contentful Paint) under 2.5 s, CLS
   (Cumulative Layout Shift) under 0.1, INP under 200 ms on key templates;
   accessibility checks (axe) in CI.
@@ -74,8 +74,8 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
   revenue in under 5 months. Orders visible in user profiles.
 - Auth and Admin: cross-domain SSO with NextAuth; Admin portal (React, Vite,
   TanStack, shadcn) with RBAC (JWT-embedded routes) and analytics dashboards.
-- CI/CD and quality: GitHub Actions pipelines; Playwright E2E on
-  checkout/auth; logging and monitoring with Sentry, Bezsel, and Dozzle.
+- CI/CD and quality: GitHub Actions pipelines; E2E tests on
+  checkout/auth; observability and alerting configured.
 
 ### Aposto!, Mobile, Web, Full-Stack Engineer | Istanbul | Sep 2021 - Apr 2025
 
@@ -95,7 +95,7 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
   about 100K requests per month.
 - Modernized Admin: migrated from CRA/React 16/CRACO/Yarn to Bun, Vite, and
   React Router; built TTS editor UI (ElevenLabs).
-- Quality and observability: Firebase Crashlytics monitoring; Detox E2E on
+- Quality and observability: crash monitoring; E2E tests on
   paywall flows.
 - Impact: 100K+ monthly visitors, 1.5M+ total users, over 100K USD revenue;
   team ~10 across frontend, backend, DevOps, PM, and CTO.
@@ -118,9 +118,8 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
   galleries.
 - Ops: Vercel (web), VPS-hosted Strapi, Firebase backend; infrastructure about
   50 USD/month at peak (initial about 30 USD).
-- Observability: Configured GCP Cloud Monitoring dashboards and alerting for
-  Firestore and Firebase Cloud Functions; used Logs Explorer to investigate
-  errors/latency across endpoints.
+- Observability: Configured dashboards and alerting for Firestore and Firebase
+  Cloud Functions; investigated errors and latency across endpoints using logs.
 - Outcome: 50K+ users; 600K+ TRY GMV; SEO via "Sober People" catalog
   (50+ profiles).
 
@@ -146,7 +145,7 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
 - Sole developer for NYC integrity/trust platform: backend, database, mobile
   app, and admin site.
 - 180+ TestFlight builds; Firestore with 10K+ documents and security rules;
-  Firebase Cloud Functions with 12 REST endpoints across about 150 services (pacts,
+- Firebase Cloud Functions with 12 RESTful endpoints across about 150 services (pacts,
   connections, user data sharing, notifications, moderation, analytics).
 - Expo, React Native, TypeScript, Redux app (50+ screens, 1,000+ components) and
   admin web dashboard.
