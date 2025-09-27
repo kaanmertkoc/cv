@@ -1,0 +1,51 @@
+:root {
+  --font: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  --fg: #000;
+}
+* {
+  color: var(--fg);
+  font-variant-ligatures: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html,
+body {
+  font-family: var(--font);
+  font-size: 11pt;
+  line-height: 1.3;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+p,
+li {
+  hyphens: none;
+  margin: 0 0 4px 0;
+}
+h1,
+h2,
+h3 {
+  margin: 6px 0 4px 0;
+  font-weight: bold;
+}
+h1 {
+  font-size: 18pt;
+}
+h2 {
+  font-size: 12pt;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 10px;
+}
+h3 {
+  font-size: 11pt;
+  margin-top: 8px;
+}
+ul {
+  margin: 0 0 6px 18px;
+  padding: 0;
+}
+@page {
+  margin: 0.5in;
+}

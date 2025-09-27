@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node/Bun
+node_modules/
+# Keep lockfiles for reproducibility (do NOT ignore bun.lockb / package-lock.json / pnpm-lock.yaml / yarn.lock)
+# bun
+.bun/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+debug.log*
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output (generic)
+dist/
+build/
+.out/
+.cache/
+
+# PDF outputs (generated artifacts)
+cv.pdf
+Kaan_Mert_Koc_CV.pdf
+Kaan_Mert_Koc_CV_PDF-A.pdf
+
+# Misc
+*.tmp
+*.temp
