@@ -24,8 +24,8 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
   Functions, Firestore (NoSQL), PostgreSQL, SQLite, Drizzle ORM
 - Infra/DevOps: Docker, Docker Compose, Vercel, VPS, Nginx, Coolify,
   GitHub Actions, continuous integration and continuous delivery (CI/CD),
-  CDN and caching (SSR, ISR, CDN), logging and monitoring (Sentry, Bezsel,
-  Dozzle)
+  CDN and caching (SSR, ISR, CDN), logging and monitoring (Sentry, Dozzle),
+  Google Cloud Platform (GCP) — Cloud Monitoring and Cloud Logging (Logs Explorer) for Firestore and Cloud Functions
 - CMS/Search: Strapi (self-hosted), Meilisearch
 - Auth/Security: NextAuth, OAuth 2.0, JWT (JSON Web Tokens),
   SSO (single sign-on), RBAC (role-based access control), rate limiting,
@@ -34,8 +34,9 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
 - Media/Storage/CDN: Bunny CDN, Cloudflare R2
 - Analytics/SEO: Google Analytics, Google Search Console, Plausible, JSON-LD,
   technical SEO
-- Observability and Testing: Sentry, Bezsel, Dozzle, Firebase Crashlytics,
-  Jest, Vitest, Playwright, Detox, end-to-end (E2E) testing
+- Observability and Testing: Sentry, Dozzle, Firebase Crashlytics,
+  Google Cloud Monitoring and Cloud Logging (Logs Explorer), Jest, Vitest,
+  Playwright, Detox, end-to-end (E2E) testing
 
 ## Professional Experience
 
@@ -116,6 +117,9 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
   galleries.
 - Ops: Vercel (web), VPS-hosted Strapi, Firebase backend; infrastructure about
   50 USD/month at peak (initial about 30 USD).
+- Observability: Configured GCP Cloud Monitoring dashboards and alerting for
+  Firestore and Firebase Cloud Functions; used Logs Explorer to investigate
+  errors/latency across endpoints.
 - Outcome: 50K+ users; 600K+ TRY GMV; SEO via “Sober People” catalog
   (50+ profiles).
 
@@ -148,9 +152,9 @@ INP (Interaction to Next Paint) under 200 ms on key templates.
 
 ## Additional Experience
 
-- Cheer Media — IT Consultant (part-time) | 2020 – Present: Benchmark Email
+- Cheer Media — IT Consultant (part-time) | Jan 2020 – Jan 2022: Benchmark Email
   setup; 6 newsletter signup sites (Next.js); Lighthouse 90+.
-- KmkocSoftware — Founder and CTO | Jan 2023 – Present: Client dashboard for
+- KmkocSoftware — Founder and CTO | Jan 2023 – Jan 2024: Client dashboard for
   Rational devices; custom API with Firebase Cloud Functions; React dashboard.
 - Teamsfam — Backend Lead | Jan 2023 – Mar 2023: Led 2-person backend;
   Express.js with TypeScript on Firebase Cloud Functions.
