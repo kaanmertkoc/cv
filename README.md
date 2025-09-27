@@ -41,7 +41,7 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
 
 ## Professional Experience
 
-### Cosmopolitan Turkey - Chief Technology Officer (CTO) | Aug 2024 - Present
+### Cosmopolitan Turkey - Chief Technology Officer (Hands-on Senior Full-Stack & DevOps) | Aug 2024 - Present
 
 - As the sole engineer, architected and implemented and delivered the entire
   digital platform, driving 100% organic growth to 1.4M visits and 
@@ -77,7 +77,7 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
 - CI/CD and quality: GitHub Actions pipelines; Playwright E2E on
   checkout/auth; logging and monitoring with Sentry, Bezsel, and Dozzle.
 
-### Aposto!, Mobile, Web, Full-Stack Engineer | Istanbul, New York | Sep 2021 - Apr 2025
+### Aposto!, Mobile, Web, Full-Stack Engineer | Istanbul | Sep 2021 - Apr 2025
 
 - Shipped Aposto! mobile app (50+ screens): offline podcast, read list,
   Turkish/English, dark/light modes; releases via TestFlight and Play Console.
@@ -100,7 +100,7 @@ Core Web Vitals (CWV) green on core pages; INP under 200 ms on key templates.
 - Impact: 100K+ monthly visitors, 1.5M+ total users, over 100K USD revenue;
   team ~10 across frontend, backend, DevOps, PM, and CTO.
 
-### Sober Digital - Lead Full-Stack Engineer | Mar 2024 - Feb 2025
+### Sober Digital - Lead Full-Stack Engineer | Istanbul | Mar 2024 - Feb 2025
 
 - Next.js 14 SSR e-commerce on Firebase Cloud Functions and Firestore (20+
   endpoints) with iyzico; custom admin for merch, categories, coupons with
