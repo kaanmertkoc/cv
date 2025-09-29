@@ -3,7 +3,7 @@
 Senior Full-Stack Engineer
 
 Istanbul, Turkey | +90 531 712 3188 | kaanmertkocbus@gmail.com
-LinkedIn: https://www.linkedin.com/in/kaan-mert-koc-2a57b5202/
+LinkedIn: https://www.linkedin.com/in/kaan-mert-koc
 GitHub: https://github.com/kaanmertkoc
 
 ## Summary
