@@ -24,7 +24,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 - Commerce/Payments: Shopify, Stripe, iyzico
 - Media/Storage/CDN: Bunny CDN, Cloudflare R2
 - Analytics/SEO: Google Analytics, Google Search Console, Plausible, JSON-LD, technical SEO
-- Observability/Testing: Sentry, Dozzle, Firebase Crashlytics, Google Cloud Monitoring/Logging, Jest, Vitest, Playwright, Detox, E2E
+- Observability/Testing: Sentry, Dozzle, Firebase Crashlytics, Google Cloud Monitoring/Logging, Jest, Vitest
 
 ## Professional Experience
 
@@ -67,17 +67,6 @@ Core Web Vitals green; INP under 200ms on key templates.
 - Ops: Vercel, VPS Strapi, Firebase backend, ~50 USD/month
 - Observability: Firestore/Functions dashboards/alerting
 - Outcome: 50K+ users, 600K+ TRY GMV, "Sober People" SEO catalog (50+ profiles)
-
-### HyperCut - Co-Founder and Tech Lead | Istanbul, Turkey | Apr 2023 - Dec 2024
-
-- React Native reels editor: hypes, search/filter, authentication, paywall, in-app purchases, premium subscriptions (Firebase)
-- Content pipeline: upload, storage optimization, processing
-- Landing site/admin dashboard (Next.js 14), BTM-backed
-
-### ScheduleIt - Co-Founder and CTO | Istanbul, Turkey | Oct 2023 - Dec 2024
-
-- Automation web app (recurring tasks); 2nd Solana Ideathon, 3rd Solana Presentation; Solana HyperDrive invite
-- Next.js 14 frontend, Firebase Functions backend; scheduled jobs (WhatsApp Business, Firebase Mail, CoinMarketCap APIs)
 
 ### UrWord - CTO | New York, USA | Aug 2022 - Dec 2023
 
