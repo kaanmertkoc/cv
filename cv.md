@@ -29,7 +29,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 ## Professional Experience
 
 ### Ablefy.io GmbH - Full Stack Developer | Berlin, Germany | Dec 2025 - Present
-- Full-stack development using modern web technologies and best practices
+- Full-stack Next.js development with tRPC, Prisma ORM, and a serverless stack for a community website with AI features
 
 ### Cosmopolitan Turkey - Chief Technology Officer (Hands-on Senior Full-Stack & DevOps) | Aug 2024 - Aug 2025
 
@@ -37,7 +37,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 - SEO: JSON-LD, AI metadata (gpt-4o-mini/Strapi), 1.01M clicks, 15.9M impressions
 - Architecture: Next.js SSR (Vercel/Coolify), custom Strapi CMS, block-based page builder
 - Performance: Caching/revalidation, SSR TTFB 100ms/p95 500ms, zero downtime, CWV green
-- Cosmo Quiz API: 1.3M solves/5 months, 10M+ events, 2.0M requests/month, Bun/Hono/TypeScript/Drizzle/SQLite, 48ms/p95 96ms, 99.9% uptime
+- Cosmo Quiz API: 1.3M solves/4 months, 10M+ events, 2.0M requests/month, Bun/Hono/TypeScript/Drizzle/SQLite, 48ms/p95 96ms, 99.9% uptime
 - Search: Meilisearch AI semantic "Similar Documents" (20 per page)
 - Subscribe: SSR gating, iyzico router (20+ endpoints), magazine pipeline, Shopify, 170 subscriptions
 - Shop: Shopify SSR, webhook revalidation, 1,305 orders, 280K TRY revenue
@@ -78,6 +78,10 @@ Core Web Vitals green; INP under 200ms on key templates.
 ## Awards and Hackathons
 
 - Solana Ideathon 2nd place; Solana Presentation 3rd place; Solana HyperDrive Global Hackathon invitee
+
+## Public Speaking
+
+- Interview on "Business Time" about software development, AI, and tech; scheduled for TV8 International TV channel, YouTube, and Instagram
 
 ## Open Source and GitHub Activity
 
