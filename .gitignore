@@ -45,3 +45,5 @@ benchmark.txt
 # Misc
 *.tmp
 *.temp
+*.md
+!README.md
