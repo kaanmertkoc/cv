@@ -2,9 +2,8 @@
 
 Senior Full-Stack Engineer
 
-Istanbul, Turkey | +90 531 712 3188 | kaanmertkocbus@gmail.com
-LinkedIn: https://www.linkedin.com/in/kaan-mert-koc
-GitHub: https://github.com/kaanmertkoc
+Istanbul, Turkey → New York, NY | +90 531 712 3188 | [kaanmertkocbus@gmail.com](mailto:kaanmertkocbus@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/kaan-mert-koc) | [GitHub](https://github.com/kaanmertkoc) | [kaanmertkoc.com](https://kaanmertkoc.com)
 
 ## Summary
 
@@ -29,7 +28,16 @@ Core Web Vitals green; INP under 200ms on key templates.
 ## Professional Experience
 
 ### Ablefy.io GmbH - Full Stack Developer | Berlin, Germany | Dec 2025 - Present
-- Full-stack Next.js development with tRPC, Prisma ORM, and a serverless stack for a community website with AI features
+
+- Core engineer on a multi-tenant community SaaS: 250+ commits, 110K+ LOC in 7 months (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest)
+- Built community platform core to Open Beta launch: rooms, posts, membership lifecycle (invites, approvals, roles, archive/removal), pinning, permissions, moderation, full en/de i18n
+- Live commerce: webinars + live shopping with realtime product overlays, drag-and-drop layer editor, in-stream checkout, viewer presence
+- Realtime messaging: shipped direct messaging end-to-end; live session chat with scoped Ably tokens, server-side publish, persisted history, host moderation modes
+- AI authoring: selection-based AI edits, AI review popover, prompt assist, AI-seeded community onboarding
+- Notifications and email: in-app deep links, locale-aware (en/de) transactional emails, weekly digest engine (per-community cron fan-out, ranking queries, branded templates, opt-out preferences)
+- Identity: cross-platform SSO bridge to parent commerce platform (Clerk), user sync and external-ID backfill
+- Hardening: closed cross-tenant authorization gaps, cleared 74/76 Dependabot alerts (all 32 highs); SEO foundation (robots.txt fix, sitemaps, canonical URLs, OG images)
+- Quality/DevEx: Playwright E2E stabilization, Sentry-to-Jira ticket automation, staging CI, Dockerized local setup; Next.js 16, React 19, rich-text editor major upgrades
 
 ### Cosmopolitan Turkey - Chief Technology Officer (Hands-on Senior Full-Stack & DevOps) | Aug 2024 - Aug 2025
 
@@ -37,7 +45,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 - SEO: JSON-LD, AI metadata (gpt-4o-mini/Strapi), 1.01M clicks, 15.9M impressions
 - Architecture: Next.js SSR (Vercel/Coolify), custom Strapi CMS, block-based page builder
 - Performance: Caching/revalidation, SSR TTFB 100ms/p95 500ms, zero downtime, CWV green
-- Cosmo Quiz API: 1.3M solves/4 months, 10M+ events, 2.0M requests/month, Bun/Hono/TypeScript/Drizzle/SQLite, 48ms/p95 96ms, 99.9% uptime
+- Cosmo Quiz API: 1.3M solves/5 months, 10M+ events, 2.0M requests/month, Bun/Hono/TypeScript/Drizzle/SQLite, 48ms/p95 96ms, 99.9% uptime
 - Search: Meilisearch AI semantic "Similar Documents" (20 per page)
 - Subscribe: SSR gating, iyzico router (20+ endpoints), magazine pipeline, Shopify, 170 subscriptions
 - Shop: Shopify SSR, webhook revalidation, 1,305 orders, 280K TRY revenue
@@ -58,6 +66,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 
 ### Sober Digital - Lead Full-Stack Engineer | Istanbul, Turkey | Mar 2024 - Feb 2025
 
+- Shop, editorial site and festival app for a biannual print magazine; 50K+ users, 600K+ TRY GMV
 - Next.js 14 SSR e-commerce (Firebase Functions/Firestore, 20+ endpoints, iyzico), custom admin (merch/categories/coupons)
 - Festival inventory: QR-coded SKUs, isolated stock pools
 - Strapi CMS (self-hosted): issue > sections > content modeling, unified web/mobile
@@ -66,7 +75,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 - Media/Performance: Bunny CDN, video carousel, GIF galleries
 - Ops: Vercel, VPS Strapi, Firebase backend, ~50 USD/month
 - Observability: Firestore/Functions dashboards/alerting
-- Outcome: 50K+ users, 600K+ TRY GMV, "Sober People" SEO catalog (50+ profiles)
+- "Sober People" SEO catalog (50+ profiles)
 
 ### UrWord - CTO | New York, USA | Aug 2022 - Dec 2023
 
@@ -86,9 +95,10 @@ Core Web Vitals green; INP under 200ms on key templates.
 ## Open Source and GitHub Activity
 
 - 4-year GitHub contributor: 11K+ contributions (2022-2025)
-- iyzico-subscription-ts: Modern TypeScript SDK for Iyzico Subscription API, cross-platform compatible (Node.js, Bun, Deno, browsers, serverless), zero dependencies, full TypeScript support - https://github.com/kaanmertkoc/iyzico-subscription-ts
+- **[iyzico-subscription-ts](https://github.com/kaanmertkoc/iyzico-subscription-ts)**: Modern TypeScript SDK for Iyzico Subscription API, cross-platform compatible (Node.js, Bun, Deno, browsers, serverless), zero dependencies, full TypeScript support
 
 ## Education
 
+- Touro University, New York - M.S. Artificial Intelligence, started 2026
 - MEF University, Istanbul - B.Sc. Computer Engineering, 2023. IAESTE member; algorithm competition finalist
-- UIST "St. Paul the Apostle" - 2021. iOS "Code Tracker" app (GitHub auth, full grade)
+- UIST "St. Paul the Apostle", Ohrid - 2021. iOS "Code Tracker" app (GitHub auth, full grade)
