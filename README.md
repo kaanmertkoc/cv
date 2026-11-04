@@ -11,7 +11,7 @@ Senior full-stack engineer building AI agents and production software: multi-age
 
 ## Skills
 
-- AI/Agentic: Claude Code (skills, subagents, hooks, MCP), multi-agent orchestration, LLM-as-judge evaluations, Vercel AI SDK (structured output), Vercel AI Gateway, Gemini, OpenAI, GitHub Copilot coding agent, MCP integrations (Sentry, Jira, Figma, Playwright), Playwright browser agents, mutation testing
+- AI/Agentic: Claude Code, OpenCode, Codex, Pi, agent customization (skills, subagents, hooks, MCP), multi-agent orchestration, LLM-as-judge evaluations, Vercel AI SDK (structured output), Vercel AI Gateway, Gemini, OpenAI, GitHub Copilot coding agent, MCP integrations (Sentry, Jira, Figma, Playwright), Playwright browser agents, mutation testing
 - Frontend: React, Next.js (App Router, SSR, SSG, ISR), TypeScript, TanStack Query, Redux, Zustand, CSS-in-JS, a11y, CWV
 - Mobile: React Native, Expo EAS, in-app purchases, deep links, push notifications (FCM), TestFlight, Play Console
 - Backend: Node.js, Bun, Go (chi), Hono, tRPC, RESTful APIs, microservices, webhooks, Inngest, Ably, Firebase Functions, Firestore, PostgreSQL, SQLite, Prisma, Drizzle ORM
@@ -38,7 +38,7 @@ Senior full-stack engineer building AI agents and production software: multi-age
 
 **Product engineering**
 
-- Core engineering: 460+ merged PRs on a multi-tenant community SaaS (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest); shipped rooms, posts, membership lifecycle, permissions, moderation, and en/de localization through Open Beta
+- Core engineering: 550+ merged PRs on a multi-tenant community SaaS (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest); shipped rooms, posts, membership lifecycle, permissions, moderation, and en/de localization through Open Beta
 - Live commerce and messaging: webinars and live shopping with realtime product overlays, a drag-and-drop layer editor, and in-stream checkout; direct messaging and moderated live chat with scoped Ably tokens and persisted history
 - AI authoring: selection-based edits, AI review, prompt assist, and AI-seeded community onboarding
 - Identity and engagement: cross-platform Clerk SSO, user sync and external-ID backfill; localized transactional emails, in-app deep links, and a weekly digest engine with ranking, branding, and opt-out preferences
@@ -95,7 +95,7 @@ Senior full-stack engineer building AI agents and production software: multi-age
 
 ## Public Speaking
 
-- Interview on "Business Time" about software development, AI, and tech; scheduled for TV8 International TV channel, YouTube, and Instagram
+- Interview on "Business Time" about software development, AI, and tech; aired on TV8 International, YouTube, and Instagram
 
 ## Open Source and GitHub Activity
 
