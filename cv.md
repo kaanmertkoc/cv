@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer
 
-Istanbul, Turkey → New York, NY | +90 531 712 3188 | [kaanmertkocbus@gmail.com](mailto:kaanmertkocbus@gmail.com)  
+Istanbul, Turkey → New York, NY | +1 929 625 1934 | [kaanmertkocbus@gmail.com](mailto:kaanmertkocbus@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/kaan-mert-koc) | [GitHub](https://github.com/kaanmertkoc) | [kaanmertkoc.com](https://kaanmertkoc.com)
 
 ## Summary
@@ -29,7 +29,7 @@ Core Web Vitals green; INP under 200ms on key templates.
 
 ### Ablefy.io GmbH - Full Stack Developer | Berlin, Germany | Dec 2025 - Present
 
-- Core engineer on a multi-tenant community SaaS: 250+ commits, 110K+ LOC in 7 months (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest)
+- Core engineer on a multi-tenant community SaaS: 550+ pull requests, 110K+ LOC in 7 months (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest)
 - Built community platform core to Open Beta launch: rooms, posts, membership lifecycle (invites, approvals, roles, archive/removal), pinning, permissions, moderation, full en/de i18n
 - Live commerce: webinars + live shopping with realtime product overlays, drag-and-drop layer editor, in-stream checkout, viewer presence
 - Realtime messaging: shipped direct messaging end-to-end; live session chat with scoped Ably tokens, server-side publish, persisted history, host moderation modes
