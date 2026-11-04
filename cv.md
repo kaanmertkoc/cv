@@ -7,37 +7,42 @@ Istanbul, Turkey → New York, NY | +1 929 625 1934 | [kaanmertkocbus@gmail.com]
 
 ## Summary
 
-Senior full-stack engineer delivering SEO-first SSR/SSG web apps, high-traffic RESTful APIs, and mobile apps
-with TypeScript, Next.js, React Native, Expo EAS, Strapi, Firebase, and Go.
-Delivered 1.4M+ visits, 3.0M pageviews, 2.0M requests/month (p95 latency 96ms), and 280K+ TRY GMV.
-Core Web Vitals green; INP under 200ms on key templates.
+Senior full-stack engineer building AI agents and production software: multi-agent browser testing, LLM-as-judge evaluations, and proof-gated development workflows across TypeScript, Next.js, React Native, and Go. Delivered 1.4M+ visits, 3.0M pageviews, 2.0M requests/month (p95 latency 96ms), and 280K+ TRY GMV. Core Web Vitals green; INP under 200ms on key templates.
 
 ## Skills
 
+- AI/Agentic: Claude Code (skills, subagents, hooks, MCP), multi-agent orchestration, LLM-as-judge evaluations, Vercel AI SDK (structured output), Vercel AI Gateway, Gemini, OpenAI, GitHub Copilot coding agent, MCP integrations (Sentry, Jira, Figma, Playwright), Playwright browser agents, mutation testing
 - Frontend: React, Next.js (App Router, SSR, SSG, ISR), TypeScript, TanStack Query, Redux, Zustand, CSS-in-JS, a11y, CWV
 - Mobile: React Native, Expo EAS, in-app purchases, deep links, push notifications (FCM), TestFlight, Play Console
-- Backend: Node.js, Bun, Go (chi), Hono, RESTful APIs, microservices, webhooks, Firebase Functions, Firestore, PostgreSQL, SQLite, Drizzle ORM
+- Backend: Node.js, Bun, Go (chi), Hono, tRPC, RESTful APIs, microservices, webhooks, Inngest, Ably, Firebase Functions, Firestore, PostgreSQL, SQLite, Prisma, Drizzle ORM
 - Infrastructure: Docker, Docker Compose, Vercel, VPS, Nginx, Coolify, GitHub Actions, CI/CD, CDN/caching, GCP
 - CMS/Search: Strapi (self-hosted), Meilisearch
-- Auth/Security: NextAuth, OAuth 2.0, JWT, SSO, RBAC, rate limiting, feature flags
+- Auth/Security: Clerk, NextAuth, OAuth 2.0, JWT, SSO, RBAC, rate limiting, feature flags
 - Commerce/Payments: Shopify, Stripe, iyzico
 - Media/Storage/CDN: Bunny CDN, Cloudflare R2
 - Analytics/SEO: Google Analytics, Google Search Console, Plausible, JSON-LD, technical SEO
-- Observability/Testing: Sentry, Dozzle, Firebase Crashlytics, Google Cloud Monitoring/Logging, Jest, Vitest
+- Observability/Testing: Sentry, Dozzle, Firebase Crashlytics, Google Cloud Monitoring/Logging, Playwright, Jest, Vitest
 
 ## Professional Experience
 
 ### Ablefy.io GmbH - Full Stack Developer | Berlin, Germany | Dec 2025 - Present
 
-- Core engineer on a multi-tenant community SaaS: 550+ pull requests, 110K+ LOC in 7 months (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest)
-- Built community platform core to Open Beta launch: rooms, posts, membership lifecycle (invites, approvals, roles, archive/removal), pinning, permissions, moderation, full en/de i18n
-- Live commerce: webinars + live shopping with realtime product overlays, drag-and-drop layer editor, in-stream checkout, viewer presence
-- Realtime messaging: shipped direct messaging end-to-end; live session chat with scoped Ably tokens, server-side publish, persisted history, host moderation modes
-- AI authoring: selection-based AI edits, AI review popover, prompt assist, AI-seeded community onboarding
-- Notifications and email: in-app deep links, locale-aware (en/de) transactional emails, weekly digest engine (per-community cron fan-out, ranking queries, branded templates, opt-out preferences)
-- Identity: cross-platform SSO bridge to parent commerce platform (Clerk), user sync and external-ID backfill
-- Hardening: closed cross-tenant authorization gaps, cleared 74/76 Dependabot alerts (all 32 highs); SEO foundation (robots.txt fix, sitemaps, canonical URLs, OG images)
-- Quality/DevEx: Playwright E2E stabilization, Sentry-to-Jira ticket automation, staging CI, Dockerized local setup; Next.js 16, React 19, rich-text editor major upgrades
+**AI engineering**
+
+- Agentic QA swarm: built 11 LLM-driven browser agents acting as hosts, members, and guests in real webinars on per-PR previews; Gemini evaluates interactions using vision and structured output. Runs publish video, screenshots, per-agent feedback, and token costs; findings led to product fixes
+- Live-event agents: built a seller-journey suite covering an owner, 3 staff roles, and 6 guest personas registering, buying, or dropping off; step-by-step evaluation and an LLM customer judge assess each persona’s experience
+- Proof-gated review: co-built the team’s Claude Code harness (triage → spec → TDD → verify → multi-agent PR review); added prover agents that reproduce P0/P1 findings in isolated worktrees and databases, plus mutation checks before acceptance criteria can pass
+- Visual PR evidence: built agent-captured before/after screenshots at 3 viewports, provenance manifests, automatic embedding in PR descriptions, and a reviewer skill that audits the evidence
+- AI-assisted operations: routed Sentry issues to GitHub Copilot’s coding agent; built a Claude skill to take over stalled Copilot PRs with Sentry root-cause analysis, test-first fixes, and updated PR descriptions
+- CI and previews: built per-PR preview environments triggered by comments and a regression-risk gate that automatically runs E2E tests on risky changes
+
+**Product engineering**
+
+- Core engineering: 460+ merged PRs on a multi-tenant community SaaS (Next.js App Router, React 19, tRPC, Prisma/PostgreSQL, Clerk, Inngest); shipped rooms, posts, membership lifecycle, permissions, moderation, and en/de localization through Open Beta
+- Live commerce and messaging: webinars and live shopping with realtime product overlays, a drag-and-drop layer editor, and in-stream checkout; direct messaging and moderated live chat with scoped Ably tokens and persisted history
+- AI authoring: selection-based edits, AI review, prompt assist, and AI-seeded community onboarding
+- Identity and engagement: cross-platform Clerk SSO, user sync and external-ID backfill; localized transactional emails, in-app deep links, and a weekly digest engine with ranking, branding, and opt-out preferences
+- Hardening and platform: closed cross-tenant authorization gaps and cleared 74/76 Dependabot alerts (all 32 highs); SEO foundations, Dockerized local development, and Next.js 16, React 19, and rich-text editor upgrades
 
 ### Cosmopolitan Turkey - Chief Technology Officer (Hands-on Senior Full-Stack & DevOps) | Aug 2024 - Aug 2025
 
